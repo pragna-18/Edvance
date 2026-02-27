@@ -1,0 +1,61 @@
+{
+  "model_type": "GradientBoosting",
+  "training_date": "2025-12-08T15:56:42.123689",
+  "metrics": {
+    "mse": 0.22655217363756022,
+    "rmse": 0.4759749716503592,
+    "mae": 0.3578626818613456,
+    "r2": 0.9110084239165424,
+    "mape": 0.053908442509991925,
+    "cv_mean": 0.7935228451237281,
+    "cv_std": 0.0574837524819897
+  },
+  "feature_importance": {
+    "feature": {
+      "6": "content_words",
+      "2": "num_activities",
+      "3": "num_assessments",
+      "4": "has_differentiation",
+      "1": "num_materials",
+      "5": "duration",
+      "0": "num_objectives"
+    },
+    "importance": {
+      "6": 0.6006935440675115,
+      "2": 0.11772454909589652,
+      "3": 0.10646749963790415,
+      "4": 0.08444484184975257,
+      "1": 0.06410858177899663,
+      "5": 0.017997887188035817,
+      "0": 0.008563096381902809
+    }
+  },
+  "hyperparameters": {
+    "alpha": 0.9,
+    "ccp_alpha": 0.0,
+    "criterion": "friedman_mse",
+    "init": null,
+    "learning_rate": 0.1,
+    "loss": "squared_error",
+    "max_depth": 3,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 1,
+    "min_samples_split": 5,
+    "min_weight_fraction_leaf": 0.0,
+    "n_estimators": 100,
+    "n_iter_no_change": null,
+    "random_state": 42,
+    "subsample": 0.8,
+    "tol": 0.0001,
+    "validation_fraction": 0.1,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "all_models": [
+    "RandomForest",
+    "GradientBoosting",
+    "AdaBoost"
+  ]
+}

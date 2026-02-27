@@ -1,0 +1,227 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  teacher
+  HOD
+  admin
+}
+
+enum PlanStatus {
+  draft
+  submitted
+  approved
+  rejected
+  revision_requested
+}
+
+enum ApprovalStatus {
+  pending
+  approved
+  rejected
+}
+
+model User {
+  id        String   @id @default(uuid())
+  name      String
+  email     String   @unique
+  password  String
+  role      UserRole @default(teacher)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  createdPlans              LessonPlan[]             @relation("PlanCreator")
+  templates                 Template[]
+  approvals                 Approval[]
+  activities                Activity[]
+  collaborationSessions     CollaborationSession[]   @relation("CollaborationSessions")
+  collaborationComments     CollaborationComment[]   @relation("CollaborationComments")
+  collaboratorPermissions   CollaborationPermission[] @relation("CollaboratorPermissions")
+  permissionsGranted        CollaborationPermission[] @relation("PermissionGrantedBy")
+
+  @@map("users")
+}
+
+model LessonPlan {
+  id                    String     @id @default(uuid())
+  title                 String
+  subject               String
+  topic                 String?
+  grade                 String
+  duration              Int? // in minutes
+  content               Json // Structured lesson plan content
+  version               Int        @default(1)
+  status                PlanStatus @default(draft)
+  creatorId             String
+  healthScore           Float? // AI-generated health score (1-10)
+  healthScoreDetails    Json? // Details about the health score
+  curriculumAlignment   Json? // Curriculum alignment analysis
+  language              String? @default("en") // Language code (en, es, fr, etc.)
+  createdAt             DateTime   @default(now())
+  updatedAt             DateTime   @updatedAt
+
+  // Relations
+  creator                 User                      @relation("PlanCreator", fields: [creatorId], references: [id], onDelete: Cascade)
+  templates               Template[]
+  approvals               Approval[]
+  versions                LessonPlanVersion[]
+  activities              Activity[]
+  collaborationSessions   CollaborationSession[]    @relation("CollaborationSessions")
+  collaborationComments   CollaborationComment[]    @relation("CollaborationComments")
+  collaborators           CollaborationPermission[] @relation("PlanCollaborators")
+
+  @@map("lesson_plans")
+  @@index([creatorId])
+  @@index([status])
+  @@index([subject])
+  @@index([grade])
+  @@index([healthScore])
+}
+
+model CollaborationPermission {
+  id        String   @id @default(uuid())
+  planId    String
+  userId    String
+  role      String   @default("editor") // editor, viewer, commenter
+  grantedAt DateTime @default(now())
+  grantedBy String
+
+  // Relations
+  plan      LessonPlan @relation("PlanCollaborators", fields: [planId], references: [id], onDelete: Cascade)
+  user      User       @relation("CollaboratorPermissions", fields: [userId], references: [id], onDelete: Cascade)
+  grantedByUser User   @relation("PermissionGrantedBy", fields: [grantedBy], references: [id], onDelete: Cascade)
+
+  @@map("collaboration_permissions")
+  @@index([planId])
+  @@index([userId])
+  @@unique([planId, userId])
+}
+
+model LessonPlanVersion {
+  id            String     @id @default(uuid())
+  planId        String
+  version       Int
+  content       Json
+  changeNote    String?
+  createdAt     DateTime   @default(now())
+  createdBy     String
+
+  // Relations
+  plan          LessonPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+
+  @@map("lesson_plan_versions")
+  @@index([planId])
+  @@unique([planId, version])
+}
+
+model Template {
+  id          String   @id @default(uuid())
+  name        String
+  description String?
+  structure   Json // Template structure/format
+  ownerId     String
+  isPublic    Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Relations
+  owner       User         @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  lessonPlans LessonPlan[]
+
+  @@map("templates")
+  @@index([ownerId])
+  @@index([isPublic])
+}
+
+model Approval {
+  id            String          @id @default(uuid())
+  planId        String
+  reviewerId    String
+  status        ApprovalStatus  @default(pending)
+  comments      String?
+  reviewedAt    DateTime?
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+
+  // Relations
+  plan          LessonPlan      @relation(fields: [planId], references: [id], onDelete: Cascade)
+  reviewer      User            @relation(fields: [reviewerId], references: [id], onDelete: Cascade)
+
+  @@map("approvals")
+  @@index([planId])
+  @@index([reviewerId])
+  @@index([status])
+}
+
+model Activity {
+  id          String   @id @default(uuid())
+  userId      String
+  planId      String?
+  action      String   // e.g., "created", "updated", "approved", "submitted"
+  description String?
+  metadata    Json?
+  createdAt   DateTime @default(now())
+
+  // Relations
+  user        User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  plan        LessonPlan?  @relation(fields: [planId], references: [id], onDelete: SetNull)
+
+  @@map("activities")
+  @@index([userId])
+  @@index([planId])
+  @@index([createdAt])
+}
+
+model CollaborationSession {
+  id            String   @id @default(uuid())
+  planId        String
+  userId        String
+  userName      String
+  status        String   @default("active") // active, idle, offline
+  cursorPosition Json?    // Store cursor position for real-time collaboration
+  selectionStart Int?
+  selectionEnd  Int?
+  joinedAt      DateTime @default(now())
+  lastActivity  DateTime @updatedAt
+
+  // Relations
+  plan          LessonPlan @relation("CollaborationSessions", fields: [planId], references: [id], onDelete: Cascade)
+  user          User       @relation("CollaborationSessions", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("collaboration_sessions")
+  @@index([planId])
+  @@index([userId])
+  @@index([status])
+}
+
+model CollaborationComment {
+  id        String   @id @default(uuid())
+  planId    String
+  userId    String
+  userName  String
+  content   String
+  resolved  Boolean  @default(false)
+  position  Json?    // Position in the document for threaded comments
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  plan      LessonPlan @relation("CollaborationComments", fields: [planId], references: [id], onDelete: Cascade)
+  user      User       @relation("CollaborationComments", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("collaboration_comments")
+  @@index([planId])
+  @@index([userId])
+  @@index([resolved])
+}
+

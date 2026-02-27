@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: edvance
+      POSTGRES_PASSWORD: edvance123
+      POSTGRES_DB: edvance
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U edvance"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  server:
+    build: ./server
+    ports:
+      - "5000:5000"
+    environment:
+      DATABASE_URL: postgresql://edvance:edvance123@postgres:5432/edvance?schema=public
+      JWT_SECRET: your-super-secret-jwt-key-change-this-in-production
+      GEMINI_API_KEY: AIzaSyDEIGf1uBs5sjn-zt0e3pBjgmBt5NrGM2s
+      CLIENT_URL: http://localhost:3000
+      NODE_ENV: production
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+
+  client:
+    build: ./client
+    ports:
+      - "3000:80"
+    depends_on:
+      - server
+    environment:
+      VITE_API_URL: http://localhost:5000/api
+
+volumes:
+  postgres_data:
+
+
+
+
+
+

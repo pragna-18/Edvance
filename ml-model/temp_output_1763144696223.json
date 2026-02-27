@@ -1,0 +1,1 @@
+{"error": "Model not found at models/health_score_model.pkl. Please run train_model.py first.", "score": null, "features": null, "reasoning": []}

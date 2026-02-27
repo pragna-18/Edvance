@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans antialiased;
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+  
+  * {
+    @apply transition-colors duration-200;
+    font-family: inherit;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+    font-weight: 600;
+  }
+  
+  button, input, textarea, select {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+  
+  a {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+  
+  p, span, div, li, td, th {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-3 rounded-2xl hover:from-indigo-700 hover:to-purple-700 transition-all duration-300 font-semibold shadow-lg hover:shadow-xl hover:scale-105 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100;
+  }
+  
+  .btn-secondary {
+    @apply bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-6 py-3 rounded-2xl hover:bg-gray-50 dark:hover:bg-gray-700 transition-all duration-300 font-medium shadow-md hover:shadow-lg border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:scale-105 active:scale-95;
+  }
+  
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-3xl shadow-lg p-6 border border-gray-100 dark:border-gray-700 hover:shadow-2xl transition-all duration-300 hover:border-gray-200 dark:hover:border-gray-600;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 border-2 border-gray-200 dark:border-gray-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500/50 focus:border-indigo-500 transition-all duration-200 bg-white dark:bg-gray-800 hover:border-gray-300 dark:hover:border-gray-600 text-gray-900 dark:text-gray-100 placeholder:text-gray-400 dark:placeholder:text-gray-500;
+  }
+  
+  /* Hide scrollbar */
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  * {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  /* Spline 3D Background */
+  .spline-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  
+  .spline-container > div {
+    width: 100% !important;
+    height: 100% !important;
+    display: flex;
+  }
+  
+  .spline-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+  }
+  
+  .spline-container iframe {
+    width: 100% !important;
+    height: 100% !important;
+    border: none !important;
+    display: block !important;
+  }
+}
+
+/*
+  Force all on-screen text to white when dark mode is enabled.
+  We add strong rules (with !important) to override component-level and utility classes
+  so the user sees readable white text across the app in dark mode.
+*/
+html.dark,
+html.dark * {
+  color: #ffffff !important;
+  -webkit-text-fill-color: #ffffff !important; /* for some inputs/autofill */
+}
+
+/* Placeholder text in inputs */
+html.dark ::placeholder {
+  color: rgba(255,255,255,0.7) !important;
+}
+
+/* Make sure caret is visible in inputs */
+html.dark input,
+html.dark textarea {
+  caret-color: #ffffff !important;
+}
+
+/* If you prefer a slightly softer white for large blocks, change the hex above to #f8fafc or similar */
+
+
+

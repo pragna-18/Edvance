@@ -1,0 +1,501 @@
+num_objectives,num_materials,num_activities,num_assessments,has_differentiation,duration,content_words,activities,health_score
+6,1,1,3,1,45,83,['Role Play (24 mins)'],7.3
+1,1,4,1,0,52,31,"['Group Discussion (28 mins)', 'Brainstorming (22 mins)', 'Individual Task (17 mins)', 'Individual Task (22 mins)']",4.2
+3,1,2,1,0,54,44,"['Case Study Analysis (13 mins)', 'Problem Solving (26 mins)']",3.7
+2,6,3,1,1,44,59,"['Quiz (25 mins)', 'Brainstorming (9 mins)', 'Video Presentation (9 mins)']",6.5
+1,1,1,2,1,70,34,['Quiz (17 mins)'],4.6
+4,1,3,2,1,62,62,"['Role Play (29 mins)', 'Role Play (5 mins)', 'Project Work (15 mins)']",7.6
+1,6,4,1,1,78,56,"['Hands-on Experiment (22 mins)', 'Problem Solving (27 mins)', 'Hands-on Experiment (27 mins)', 'Video Presentation (17 mins)']",7.5
+2,1,1,3,1,34,52,['Pair Work (28 mins)'],5.6
+6,6,1,1,0,55,67,['Case Study Analysis (22 mins)'],5.9
+4,1,2,4,0,30,55,"['Brainstorming (9 mins)', 'Hands-on Experiment (14 mins)']",6.5
+5,2,1,1,1,84,68,['Project Work (7 mins)'],6.8
+5,5,1,1,1,64,75,['Case Study Analysis (21 mins)'],7.4
+3,5,2,3,0,43,50,"['Pair Work (25 mins)', 'Video Presentation (10 mins)']",6.3
+2,4,2,1,0,49,36,"['Role Play (18 mins)', 'Project Work (28 mins)']",5.0
+6,3,4,2,1,47,91,"['Quiz (15 mins)', 'Video Presentation (7 mins)', 'Video Presentation (16 mins)', 'Case Study Analysis (21 mins)']",8.6
+6,3,4,1,1,54,90,"['Debate (26 mins)', 'Individual Task (28 mins)', 'Video Presentation (21 mins)', 'Video Presentation (26 mins)']",8.9
+5,5,3,4,1,65,83,"['Case Study Analysis (7 mins)', 'Video Presentation (21 mins)', 'Case Study Analysis (25 mins)']",9.8
+4,4,5,2,0,75,61,"['Brainstorming (6 mins)', 'Role Play (12 mins)', 'Individual Task (19 mins)', 'Pair Work (30 mins)', 'Brainstorming (26 mins)']",8.5
+4,2,4,4,1,46,73,"['Hands-on Experiment (13 mins)', 'Debate (15 mins)', 'Role Play (7 mins)', 'Pair Work (9 mins)']",9.1
+6,1,5,4,1,60,86,"['Quiz (20 mins)', 'Group Discussion (17 mins)', 'Debate (26 mins)', 'Case Study Analysis (30 mins)', 'Quiz (28 mins)']",10.0
+2,1,3,4,1,50,50,"['Video Presentation (29 mins)', 'Quiz (13 mins)', 'Individual Task (20 mins)']",7.0
+2,2,4,1,1,66,49,"['Project Work (24 mins)', 'Problem Solving (27 mins)', 'Individual Task (29 mins)', 'Pair Work (14 mins)']",6.6
+6,6,2,1,0,74,70,"['Individual Task (18 mins)', 'Debate (25 mins)']",6.7
+4,6,5,3,1,50,74,"['Brainstorming (11 mins)', 'Debate (30 mins)', 'Video Presentation (15 mins)', 'Video Presentation (24 mins)', 'Problem Solving (13 mins)']",10.0
+6,6,4,4,1,80,91,"['Video Presentation (14 mins)', 'Video Presentation (12 mins)', 'Individual Task (28 mins)', 'Hands-on Experiment (15 mins)']",10.0
+2,3,2,3,1,30,60,"['Case Study Analysis (29 mins)', 'Brainstorming (8 mins)']",7.0
+1,5,1,2,0,39,27,['Project Work (12 mins)'],4.7
+6,1,2,2,1,46,68,"['Group Discussion (12 mins)', 'Video Presentation (27 mins)']",7.4
+4,1,5,2,1,71,82,"['Project Work (14 mins)', 'Brainstorming (8 mins)', 'Brainstorming (27 mins)', 'Video Presentation (27 mins)', 'Quiz (13 mins)']",8.7
+6,3,5,1,1,78,83,"['Case Study Analysis (8 mins)', 'Pair Work (15 mins)', 'Quiz (27 mins)', 'Brainstorming (14 mins)', 'Case Study Analysis (17 mins)']",8.0
+5,1,5,4,1,56,83,"['Role Play (9 mins)', 'Video Presentation (19 mins)', 'Problem Solving (20 mins)', 'Individual Task (5 mins)', 'Case Study Analysis (24 mins)']",9.5
+5,6,3,4,0,83,71,"['Video Presentation (5 mins)', 'Video Presentation (28 mins)', 'Video Presentation (23 mins)']",8.4
+4,4,3,2,1,74,72,"['Case Study Analysis (30 mins)', 'Case Study Analysis (9 mins)', 'Brainstorming (6 mins)']",8.0
+3,3,5,4,1,71,69,"['Role Play (6 mins)', 'Project Work (7 mins)', 'Hands-on Experiment (25 mins)', 'Case Study Analysis (14 mins)', 'Hands-on Experiment (28 mins)']",10.0
+3,3,3,4,1,39,66,"['Quiz (24 mins)', 'Case Study Analysis (12 mins)', 'Brainstorming (23 mins)']",8.5
+5,3,4,3,0,59,69,"['Case Study Analysis (17 mins)', 'Video Presentation (5 mins)', 'Project Work (26 mins)', 'Problem Solving (6 mins)']",7.8
+5,3,2,1,1,87,76,"['Hands-on Experiment (9 mins)', 'Role Play (16 mins)']",7.9
+6,6,4,3,0,35,82,"['Debate (24 mins)', 'Hands-on Experiment (25 mins)', 'Individual Task (25 mins)', 'Brainstorming (27 mins)']",8.6
+1,2,5,2,0,54,40,"['Role Play (18 mins)', 'Project Work (28 mins)', 'Problem Solving (9 mins)', 'Quiz (25 mins)', 'Individual Task (20 mins)']",6.0
+1,6,3,3,0,33,38,"['Group Discussion (30 mins)', 'Debate (12 mins)', 'Pair Work (30 mins)']",6.4
+5,1,3,2,0,38,59,"['Video Presentation (6 mins)', 'Pair Work (28 mins)', 'Quiz (21 mins)']",5.2
+5,1,5,3,1,59,91,"['Pair Work (7 mins)', 'Pair Work (13 mins)', 'Project Work (25 mins)', 'Project Work (22 mins)', 'Problem Solving (15 mins)']",9.2
+2,4,3,4,0,55,46,"['Case Study Analysis (20 mins)', 'Individual Task (7 mins)', 'Individual Task (7 mins)']",6.6
+6,1,3,3,1,52,76,"['Project Work (12 mins)', 'Quiz (22 mins)', 'Project Work (24 mins)']",8.4
+2,5,4,1,1,39,56,"['Debate (14 mins)', 'Problem Solving (15 mins)', 'Project Work (24 mins)', 'Individual Task (6 mins)']",7.6
+2,5,1,3,1,57,50,['Quiz (24 mins)'],6.6
+2,2,4,2,0,62,43,"['Individual Task (15 mins)', 'Project Work (18 mins)', 'Project Work (17 mins)', 'Problem Solving (25 mins)']",6.2
+1,4,1,2,0,57,25,['Hands-on Experiment (15 mins)'],4.7
+3,6,2,2,1,36,65,"['Project Work (29 mins)', 'Project Work (19 mins)']",7.8
+3,4,4,1,0,33,51,"['Problem Solving (6 mins)', 'Brainstorming (30 mins)', 'Project Work (25 mins)', 'Hands-on Experiment (15 mins)']",6.6
+3,6,1,2,1,32,50,['Case Study Analysis (24 mins)'],7.2
+1,5,2,3,0,49,32,"['Case Study Analysis (30 mins)', 'Debate (9 mins)']",6.2
+2,3,4,2,1,44,52,"['Problem Solving (21 mins)', 'Group Discussion (26 mins)', 'Debate (29 mins)', 'Project Work (9 mins)']",8.0
+4,5,3,4,1,44,80,"['Role Play (18 mins)', 'Pair Work (11 mins)', 'Project Work (9 mins)']",9.6
+2,4,1,2,0,82,33,['Quiz (7 mins)'],5.4
+6,2,4,4,1,69,89,"['Group Discussion (12 mins)', 'Quiz (25 mins)', 'Project Work (19 mins)', 'Individual Task (8 mins)']",10.0
+5,4,2,1,0,63,58,"['Problem Solving (5 mins)', 'Debate (30 mins)']",6.3
+3,5,3,2,0,83,48,"['Hands-on Experiment (6 mins)', 'Hands-on Experiment (6 mins)', 'Debate (14 mins)']",7.7
+3,3,1,3,1,47,48,['Problem Solving (20 mins)'],6.6
+3,6,3,3,0,58,53,"['Individual Task (26 mins)', 'Case Study Analysis (17 mins)', 'Debate (21 mins)']",7.7
+3,4,5,1,1,68,61,"['Debate (25 mins)', 'Video Presentation (12 mins)', 'Individual Task (5 mins)', 'Problem Solving (10 mins)', 'Brainstorming (21 mins)']",8.8
+2,1,4,2,0,87,45,"['Problem Solving (7 mins)', 'Role Play (22 mins)', 'Video Presentation (14 mins)', 'Pair Work (27 mins)']",5.4
+4,1,3,3,1,59,68,"['Quiz (23 mins)', 'Individual Task (9 mins)', 'Debate (25 mins)']",8.1
+2,2,3,2,0,52,39,"['Pair Work (25 mins)', 'Video Presentation (24 mins)', 'Role Play (7 mins)']",5.4
+3,5,1,1,1,35,60,['Video Presentation (25 mins)'],6.3
+5,2,3,3,0,76,65,"['Hands-on Experiment (9 mins)', 'Individual Task (6 mins)', 'Video Presentation (17 mins)']",7.5
+4,5,4,4,0,86,66,"['Brainstorming (24 mins)', 'Case Study Analysis (26 mins)', 'Brainstorming (14 mins)', 'Role Play (5 mins)']",9.1
+2,3,5,3,0,34,49,"['Project Work (8 mins)', 'Pair Work (8 mins)', 'Quiz (16 mins)', 'Debate (22 mins)', 'Debate (29 mins)']",6.8
+4,5,4,2,1,68,80,"['Problem Solving (23 mins)', 'Video Presentation (20 mins)', 'Group Discussion (16 mins)', 'Debate (26 mins)']",9.7
+6,6,5,4,1,39,103,"['Role Play (11 mins)', 'Role Play (15 mins)', 'Case Study Analysis (20 mins)', 'Role Play (17 mins)', 'Debate (10 mins)']",10.0
+3,3,2,4,0,50,51,"['Quiz (16 mins)', 'Pair Work (14 mins)']",6.6
+6,3,2,1,1,69,85,"['Group Discussion (22 mins)', 'Pair Work (18 mins)']",7.5
+6,6,1,2,1,56,77,['Pair Work (21 mins)'],7.6
+6,2,2,4,0,82,70,"['Brainstorming (29 mins)', 'Video Presentation (15 mins)']",7.0
+2,4,5,3,1,74,69,"['Brainstorming (28 mins)', 'Project Work (16 mins)', 'Quiz (27 mins)', 'Role Play (20 mins)', 'Role Play (30 mins)']",9.7
+3,5,4,1,1,73,69,"['Brainstorming (23 mins)', 'Group Discussion (22 mins)', 'Brainstorming (26 mins)', 'Video Presentation (28 mins)']",8.9
+5,1,1,4,0,32,58,['Case Study Analysis (26 mins)'],5.7
+3,4,5,4,0,64,61,"['Case Study Analysis (18 mins)', 'Project Work (29 mins)', 'Group Discussion (12 mins)', 'Hands-on Experiment (7 mins)', 'Individual Task (24 mins)']",9.2
+1,2,5,3,0,44,41,"['Debate (12 mins)', 'Video Presentation (9 mins)', 'Case Study Analysis (21 mins)', 'Hands-on Experiment (18 mins)', 'Video Presentation (13 mins)']",6.1
+6,4,4,2,0,49,77,"['Role Play (9 mins)', 'Quiz (12 mins)', 'Video Presentation (11 mins)', 'Debate (25 mins)']",7.6
+4,6,5,1,1,85,78,"['Problem Solving (8 mins)', 'Problem Solving (29 mins)', 'Brainstorming (12 mins)', 'Problem Solving (24 mins)', 'Problem Solving (11 mins)']",8.7
+4,4,1,4,0,78,55,['Project Work (23 mins)'],7.3
+5,6,3,3,0,78,70,"['Individual Task (26 mins)', 'Group Discussion (29 mins)', 'Group Discussion (18 mins)']",8.5
+4,6,4,1,0,30,63,"['Individual Task (21 mins)', 'Pair Work (12 mins)', 'Hands-on Experiment (24 mins)', 'Role Play (13 mins)']",7.2
+5,2,2,3,1,73,71,"['Brainstorming (18 mins)', 'Case Study Analysis (30 mins)']",7.7
+2,3,1,2,1,67,52,['Quiz (26 mins)'],6.0
+3,5,5,4,0,79,63,"['Pair Work (26 mins)', 'Project Work (26 mins)', 'Quiz (7 mins)', 'Project Work (14 mins)', 'Hands-on Experiment (27 mins)']",8.9
+1,3,4,3,0,78,35,"['Brainstorming (22 mins)', 'Role Play (21 mins)', 'Quiz (8 mins)', 'Group Discussion (7 mins)']",6.9
+1,6,5,2,1,66,60,"['Individual Task (10 mins)', 'Quiz (13 mins)', 'Quiz (14 mins)', 'Brainstorming (30 mins)', 'Individual Task (16 mins)']",8.1
+3,4,5,2,0,49,56,"['Brainstorming (23 mins)', 'Hands-on Experiment (15 mins)', 'Quiz (13 mins)', 'Quiz (16 mins)', 'Individual Task (23 mins)']",7.7
+4,3,1,4,0,73,56,['Individual Task (19 mins)'],5.9
+5,6,1,1,1,79,69,['Role Play (28 mins)'],7.8
+2,3,1,4,0,36,35,['Debate (19 mins)'],5.6
+1,3,1,2,1,89,44,['Role Play (18 mins)'],6.2
+5,4,4,1,1,75,72,"['Case Study Analysis (20 mins)', 'Role Play (25 mins)', 'Debate (24 mins)', 'Quiz (24 mins)']",8.7
+3,1,2,3,1,37,55,"['Pair Work (23 mins)', 'Quiz (18 mins)']",6.7
+3,1,4,2,0,42,49,"['Brainstorming (20 mins)', 'Pair Work (7 mins)', 'Project Work (5 mins)', 'Hands-on Experiment (14 mins)']",6.1
+1,5,1,3,0,79,28,['Hands-on Experiment (18 mins)'],6.0
+1,2,2,3,0,85,29,"['Hands-on Experiment (11 mins)', 'Group Discussion (23 mins)']",5.2
+2,4,1,3,1,85,56,['Brainstorming (9 mins)'],6.7
+3,5,1,1,0,76,43,['Video Presentation (15 mins)'],4.7
+6,4,1,1,1,89,70,['Debate (26 mins)'],7.3
+1,2,4,1,1,38,41,"['Group Discussion (27 mins)', 'Debate (8 mins)', 'Quiz (27 mins)', 'Pair Work (20 mins)']",6.2
+6,6,2,1,1,63,84,"['Project Work (28 mins)', 'Quiz (16 mins)']",8.2
+3,6,1,3,1,43,64,['Role Play (5 mins)'],7.9
+2,1,1,4,0,62,32,['Quiz (7 mins)'],4.3
+5,3,4,1,0,49,63,"['Case Study Analysis (28 mins)', 'Pair Work (8 mins)', 'Group Discussion (27 mins)', 'Pair Work (27 mins)']",7.1
+2,6,3,1,1,79,57,"['Brainstorming (21 mins)', 'Debate (6 mins)', 'Brainstorming (23 mins)']",8.1
+1,2,1,4,0,53,27,['Role Play (30 mins)'],4.7
+6,1,2,2,1,81,88,"['Project Work (30 mins)', 'Video Presentation (28 mins)']",7.8
+2,5,3,1,0,90,39,"['Hands-on Experiment (18 mins)', 'Brainstorming (6 mins)', 'Pair Work (27 mins)']",6.6
+5,1,5,2,0,70,69,"['Debate (30 mins)', 'Quiz (27 mins)', 'Problem Solving (15 mins)', 'Debate (19 mins)', 'Video Presentation (12 mins)']",7.7
+4,4,3,4,0,37,63,"['Group Discussion (11 mins)', 'Debate (9 mins)', 'Individual Task (27 mins)']",8.4
+2,1,4,1,1,81,53,"['Pair Work (11 mins)', 'Quiz (16 mins)', 'Case Study Analysis (25 mins)', 'Case Study Analysis (7 mins)']",6.0
+1,4,1,2,0,89,25,['Pair Work (16 mins)'],4.3
+6,3,4,4,0,86,79,"['Debate (20 mins)', 'Role Play (30 mins)', 'Brainstorming (16 mins)', 'Project Work (21 mins)']",9.1
+1,4,5,3,1,79,45,"['Role Play (30 mins)', 'Problem Solving (6 mins)', 'Hands-on Experiment (23 mins)', 'Quiz (16 mins)', 'Pair Work (10 mins)']",8.6
+2,4,1,1,1,33,47,['Hands-on Experiment (30 mins)'],5.4
+1,5,3,1,0,53,35,"['Problem Solving (18 mins)', 'Case Study Analysis (20 mins)', 'Case Study Analysis (15 mins)']",4.5
+3,6,3,2,1,41,57,"['Brainstorming (9 mins)', 'Debate (28 mins)', 'Individual Task (12 mins)']",8.3
+6,1,3,3,1,80,75,"['Brainstorming (30 mins)', 'Project Work (25 mins)', 'Case Study Analysis (12 mins)']",8.8
+6,1,5,1,0,51,76,"['Role Play (28 mins)', 'Problem Solving (22 mins)', 'Video Presentation (26 mins)', 'Video Presentation (14 mins)', 'Hands-on Experiment (8 mins)']",6.4
+3,1,4,1,0,48,45,"['Individual Task (20 mins)', 'Individual Task (14 mins)', 'Quiz (20 mins)', 'Brainstorming (26 mins)']",5.0
+1,3,4,4,1,46,60,"['Case Study Analysis (8 mins)', 'Individual Task (26 mins)', 'Debate (30 mins)', 'Role Play (18 mins)']",8.5
+5,5,5,2,0,37,71,"['Video Presentation (15 mins)', 'Problem Solving (30 mins)', 'Individual Task (7 mins)', 'Quiz (22 mins)', 'Quiz (22 mins)']",7.2
+4,2,2,1,1,89,60,"['Case Study Analysis (20 mins)', 'Project Work (24 mins)']",7.0
+1,4,3,2,0,33,36,"['Video Presentation (20 mins)', 'Problem Solving (26 mins)', 'Individual Task (12 mins)']",5.3
+2,4,2,4,0,77,40,"['Problem Solving (21 mins)', 'Quiz (9 mins)']",6.3
+3,6,2,3,0,53,50,"['Project Work (22 mins)', 'Debate (16 mins)']",7.0
+6,2,3,4,1,62,96,"['Video Presentation (18 mins)', 'Quiz (16 mins)', 'Brainstorming (13 mins)']",9.0
+3,6,1,4,0,34,52,['Hands-on Experiment (6 mins)'],7.1
+6,1,5,2,1,51,96,"['Pair Work (28 mins)', 'Video Presentation (28 mins)', 'Role Play (29 mins)', 'Pair Work (26 mins)', 'Debate (25 mins)']",8.6
+1,4,1,1,1,60,32,['Video Presentation (18 mins)'],4.7
+3,6,2,3,1,70,58,"['Case Study Analysis (18 mins)', 'Quiz (18 mins)']",8.8
+1,6,1,2,0,44,28,['Individual Task (6 mins)'],4.0
+3,2,2,4,1,31,53,"['Individual Task (16 mins)', 'Problem Solving (25 mins)']",7.5
+4,4,4,1,0,65,57,"['Project Work (24 mins)', 'Problem Solving (9 mins)', 'Quiz (8 mins)', 'Role Play (28 mins)']",7.3
+5,2,3,4,1,48,75,"['Project Work (26 mins)', 'Brainstorming (9 mins)', 'Individual Task (29 mins)']",9.3
+3,3,3,4,1,77,69,"['Debate (19 mins)', 'Project Work (13 mins)', 'Problem Solving (7 mins)']",9.2
+2,1,4,4,0,81,47,"['Project Work (5 mins)', 'Case Study Analysis (28 mins)', 'Pair Work (20 mins)', 'Brainstorming (8 mins)']",6.5
+6,5,2,3,1,63,78,"['Pair Work (7 mins)', 'Brainstorming (15 mins)']",8.9
+4,1,4,4,1,50,68,"['Group Discussion (7 mins)', 'Project Work (24 mins)', 'Case Study Analysis (14 mins)', 'Role Play (22 mins)']",9.4
+6,6,3,4,1,37,100,"['Project Work (11 mins)', 'Hands-on Experiment (8 mins)', 'Quiz (11 mins)']",9.9
+5,4,5,4,1,89,85,"['Video Presentation (17 mins)', 'Debate (14 mins)', 'Brainstorming (30 mins)', 'Pair Work (9 mins)', 'Quiz (24 mins)']",10.0
+5,5,3,1,0,78,66,"['Pair Work (6 mins)', 'Case Study Analysis (6 mins)', 'Hands-on Experiment (13 mins)']",7.7
+1,3,4,1,1,69,38,"['Video Presentation (27 mins)', 'Case Study Analysis (6 mins)', 'Quiz (17 mins)', 'Quiz (30 mins)']",6.2
+5,5,5,2,1,79,90,"['Video Presentation (9 mins)', 'Pair Work (23 mins)', 'Video Presentation (5 mins)', 'Debate (19 mins)', 'Problem Solving (9 mins)']",10.0
+2,5,1,2,0,56,34,['Hands-on Experiment (29 mins)'],5.5
+4,2,5,2,0,32,64,"['Debate (21 mins)', 'Role Play (19 mins)', 'Brainstorming (6 mins)', 'Video Presentation (25 mins)', 'Hands-on Experiment (15 mins)']",7.4
+6,4,1,2,0,64,63,['Project Work (12 mins)'],6.7
+1,4,1,1,1,71,28,['Individual Task (14 mins)'],5.1
+2,6,4,3,1,70,62,"['Project Work (24 mins)', 'Quiz (22 mins)', 'Role Play (7 mins)', 'Video Presentation (11 mins)']",8.9
+6,5,1,4,1,71,90,['Individual Task (11 mins)'],8.6
+2,6,4,3,0,83,54,"['Individual Task (10 mins)', 'Case Study Analysis (24 mins)', 'Individual Task (13 mins)', 'Pair Work (22 mins)']",6.9
+4,5,2,1,0,65,52,"['Brainstorming (21 mins)', 'Role Play (7 mins)']",6.6
+4,2,2,2,0,77,53,"['Group Discussion (26 mins)', 'Hands-on Experiment (21 mins)']",6.3
+1,6,5,3,0,83,46,"['Project Work (25 mins)', 'Individual Task (21 mins)', 'Video Presentation (17 mins)', 'Hands-on Experiment (21 mins)', 'Quiz (16 mins)']",7.6
+6,3,2,2,1,41,86,"['Case Study Analysis (18 mins)', 'Group Discussion (12 mins)']",8.1
+2,5,4,1,0,86,46,"['Project Work (9 mins)', 'Project Work (29 mins)', 'Pair Work (24 mins)', 'Case Study Analysis (21 mins)']",6.7
+4,2,1,1,0,42,43,['Role Play (29 mins)'],5.1
+1,6,4,4,1,53,46,"['Quiz (9 mins)', 'Video Presentation (20 mins)', 'Hands-on Experiment (7 mins)', 'Video Presentation (24 mins)']",8.9
+6,3,4,3,1,36,97,"['Quiz (22 mins)', 'Role Play (20 mins)', 'Pair Work (16 mins)', 'Role Play (22 mins)']",9.5
+5,4,3,1,0,40,62,"['Group Discussion (28 mins)', 'Quiz (17 mins)', 'Project Work (25 mins)']",6.6
+2,6,5,3,1,42,60,"['Hands-on Experiment (25 mins)', 'Group Discussion (10 mins)', 'Individual Task (13 mins)', 'Quiz (16 mins)', 'Case Study Analysis (17 mins)']",9.9
+2,5,2,4,0,89,40,"['Role Play (14 mins)', 'Debate (8 mins)']",7.1
+5,1,4,1,1,46,73,"['Group Discussion (27 mins)', 'Video Presentation (12 mins)', 'Video Presentation (7 mins)', 'Quiz (26 mins)']",7.6
+3,2,2,4,1,77,67,"['Project Work (16 mins)', 'Pair Work (29 mins)']",8.2
+2,5,2,1,0,63,37,"['Individual Task (27 mins)', 'Role Play (19 mins)']",5.8
+1,3,3,3,0,41,33,"['Debate (10 mins)', 'Brainstorming (18 mins)', 'Hands-on Experiment (18 mins)']",5.9
+2,5,4,4,1,42,57,"['Role Play (28 mins)', 'Debate (30 mins)', 'Brainstorming (14 mins)', 'Video Presentation (22 mins)']",9.6
+3,3,3,3,1,52,75,"['Case Study Analysis (22 mins)', 'Pair Work (29 mins)', 'Video Presentation (16 mins)']",7.7
+1,1,2,3,0,44,30,"['Problem Solving (13 mins)', 'Project Work (25 mins)']",4.5
+2,1,2,2,0,72,32,"['Individual Task (7 mins)', 'Brainstorming (22 mins)']",4.2
+6,4,3,2,0,45,71,"['Brainstorming (9 mins)', 'Problem Solving (22 mins)', 'Pair Work (23 mins)']",6.4
+4,5,2,1,0,58,57,"['Brainstorming (22 mins)', 'Group Discussion (27 mins)']",6.6
+5,3,2,4,0,86,63,"['Project Work (30 mins)', 'Problem Solving (26 mins)']",7.8
+6,4,5,4,0,47,82,"['Hands-on Experiment (7 mins)', 'Pair Work (5 mins)', 'Brainstorming (11 mins)', 'Debate (18 mins)', 'Video Presentation (30 mins)']",9.3
+4,2,2,3,0,82,53,"['Individual Task (21 mins)', 'Case Study Analysis (11 mins)']",5.9
+5,1,3,4,0,70,65,"['Pair Work (30 mins)', 'Video Presentation (23 mins)', 'Individual Task (17 mins)']",7.0
+1,6,5,3,1,89,56,"['Brainstorming (12 mins)', 'Debate (22 mins)', 'Case Study Analysis (29 mins)', 'Debate (30 mins)', 'Brainstorming (28 mins)']",8.8
+5,6,4,2,1,66,89,"['Debate (19 mins)', 'Group Discussion (29 mins)', 'Case Study Analysis (21 mins)', 'Quiz (28 mins)']",9.8
+5,2,5,3,0,50,73,"['Hands-on Experiment (8 mins)', 'Group Discussion (23 mins)', 'Case Study Analysis (17 mins)', 'Case Study Analysis (20 mins)', 'Role Play (24 mins)']",7.6
+6,4,1,4,1,81,86,['Individual Task (28 mins)'],8.0
+6,6,4,1,1,40,95,"['Project Work (12 mins)', 'Project Work (22 mins)', 'Hands-on Experiment (17 mins)', 'Role Play (28 mins)']",8.6
+2,3,1,3,1,44,53,['Project Work (9 mins)'],6.7
+5,2,1,3,0,80,56,['Group Discussion (29 mins)'],6.7
+1,3,5,1,1,50,60,"['Group Discussion (26 mins)', 'Problem Solving (17 mins)', 'Brainstorming (29 mins)', 'Project Work (23 mins)', 'Role Play (7 mins)']",6.9
+5,4,2,2,1,60,75,"['Case Study Analysis (23 mins)', 'Individual Task (8 mins)']",8.2
+3,5,4,2,1,58,62,"['Video Presentation (5 mins)', 'Debate (27 mins)', 'Individual Task (14 mins)', 'Brainstorming (20 mins)']",9.1
+6,6,1,4,1,67,76,['Group Discussion (14 mins)'],9.8
+5,4,5,1,1,32,87,"['Hands-on Experiment (21 mins)', 'Video Presentation (30 mins)', 'Group Discussion (25 mins)', 'Video Presentation (17 mins)', 'Group Discussion (22 mins)']",9.3
+4,2,5,2,0,57,62,"['Hands-on Experiment (9 mins)', 'Video Presentation (27 mins)', 'Problem Solving (21 mins)', 'Pair Work (18 mins)', 'Pair Work (25 mins)']",7.1
+2,3,2,1,0,78,37,"['Video Presentation (9 mins)', 'Hands-on Experiment (8 mins)']",5.2
+2,2,1,3,0,35,32,['Debate (10 mins)'],5.4
+1,3,4,2,1,77,49,"['Brainstorming (27 mins)', 'Debate (19 mins)', 'Hands-on Experiment (18 mins)', 'Quiz (29 mins)']",7.3
+5,4,5,1,0,42,75,"['Brainstorming (25 mins)', 'Brainstorming (7 mins)', 'Problem Solving (21 mins)', 'Individual Task (10 mins)', 'Project Work (27 mins)']",7.5
+2,4,5,2,0,86,52,"['Individual Task (8 mins)', 'Problem Solving (19 mins)', 'Case Study Analysis (16 mins)', 'Individual Task (21 mins)', 'Problem Solving (17 mins)']",6.4
+2,6,1,4,0,49,38,['Brainstorming (20 mins)'],6.0
+4,4,4,1,1,68,66,"['Group Discussion (9 mins)', 'Group Discussion (26 mins)', 'Project Work (24 mins)', 'Video Presentation (15 mins)']",8.6
+2,4,5,3,1,89,64,"['Role Play (7 mins)', 'Video Presentation (20 mins)', 'Pair Work (8 mins)', 'Problem Solving (13 mins)', 'Debate (21 mins)']",9.4
+6,6,5,3,0,57,89,"['Group Discussion (8 mins)', 'Group Discussion (19 mins)', 'Case Study Analysis (30 mins)', 'Individual Task (28 mins)', 'Hands-on Experiment (30 mins)']",9.2
+3,1,3,3,0,62,48,"['Project Work (5 mins)', 'Pair Work (11 mins)', 'Debate (15 mins)']",6.6
+4,4,1,3,0,66,54,['Video Presentation (5 mins)'],6.1
+3,4,1,4,1,86,70,['Hands-on Experiment (7 mins)'],8.5
+5,6,2,2,1,76,73,"['Group Discussion (23 mins)', 'Video Presentation (25 mins)']",9.0
+1,1,5,1,0,43,36,"['Pair Work (27 mins)', 'Video Presentation (23 mins)', 'Hands-on Experiment (10 mins)', 'Individual Task (14 mins)', 'Project Work (15 mins)']",4.9
+1,4,1,1,0,57,25,['Project Work (16 mins)'],3.9
+6,4,1,4,0,49,74,['Group Discussion (7 mins)'],7.5
+2,5,1,4,1,82,61,['Quiz (12 mins)'],7.2
+2,6,1,4,0,37,43,['Case Study Analysis (24 mins)'],5.6
+2,6,2,4,0,64,43,"['Quiz (27 mins)', 'Debate (7 mins)']",7.4
+3,1,3,1,0,45,45,"['Quiz (22 mins)', 'Hands-on Experiment (26 mins)', 'Pair Work (20 mins)']",5.1
+3,6,2,2,1,30,65,"['Project Work (10 mins)', 'Brainstorming (21 mins)']",8.1
+5,5,3,1,0,32,70,"['Hands-on Experiment (20 mins)', 'Case Study Analysis (28 mins)', 'Case Study Analysis (26 mins)']",7.0
+5,1,4,4,0,62,75,"['Project Work (28 mins)', 'Video Presentation (28 mins)', 'Project Work (13 mins)', 'Group Discussion (25 mins)']",8.5
+1,3,3,2,0,69,34,"['Project Work (10 mins)', 'Project Work (28 mins)', 'Pair Work (26 mins)']",5.7
+5,1,3,1,1,39,67,"['Problem Solving (16 mins)', 'Group Discussion (25 mins)', 'Video Presentation (29 mins)']",6.8
+4,3,2,4,0,30,58,"['Case Study Analysis (13 mins)', 'Debate (13 mins)']",7.5
+2,5,3,2,1,50,45,"['Debate (12 mins)', 'Problem Solving (14 mins)', 'Video Presentation (11 mins)']",8.3
+1,5,2,4,1,72,40,"['Case Study Analysis (19 mins)', 'Video Presentation (29 mins)']",7.5
+3,2,4,1,1,61,52,"['Quiz (11 mins)', 'Project Work (25 mins)', 'Individual Task (19 mins)', 'Problem Solving (13 mins)']",8.0
+1,6,4,3,0,39,39,"['Quiz (28 mins)', 'Individual Task (22 mins)', 'Hands-on Experiment (5 mins)', 'Quiz (27 mins)']",7.1
+3,5,3,1,0,83,48,"['Individual Task (25 mins)', 'Problem Solving (16 mins)', 'Brainstorming (7 mins)']",6.0
+4,1,5,3,0,61,67,"['Hands-on Experiment (30 mins)', 'Case Study Analysis (26 mins)', 'Role Play (19 mins)', 'Case Study Analysis (22 mins)', 'Pair Work (28 mins)']",7.6
+1,2,2,1,1,41,32,"['Project Work (10 mins)', 'Project Work (7 mins)']",5.0
+3,1,5,2,1,50,61,"['Pair Work (29 mins)', 'Quiz (10 mins)', 'Problem Solving (16 mins)', 'Role Play (10 mins)', 'Brainstorming (12 mins)']",7.8
+1,2,1,3,0,56,25,['Video Presentation (21 mins)'],4.1
+6,3,3,4,1,30,82,"['Pair Work (26 mins)', 'Brainstorming (20 mins)', 'Pair Work (10 mins)']",8.8
+5,2,2,1,1,61,69,"['Debate (12 mins)', 'Individual Task (12 mins)']",7.6
+2,4,3,2,1,59,57,"['Group Discussion (13 mins)', 'Pair Work (8 mins)', 'Brainstorming (19 mins)']",7.8
+5,4,2,4,0,83,69,"['Quiz (6 mins)', 'Group Discussion (20 mins)']",7.8
+1,6,4,2,0,38,40,"['Problem Solving (19 mins)', 'Project Work (28 mins)', 'Project Work (5 mins)', 'Brainstorming (19 mins)']",6.7
+6,1,4,3,1,63,96,"['Problem Solving (6 mins)', 'Role Play (26 mins)', 'Debate (6 mins)', 'Individual Task (17 mins)']",8.6
+6,5,2,2,0,50,74,"['Video Presentation (19 mins)', 'Project Work (16 mins)']",7.0
+1,1,2,3,1,37,48,"['Hands-on Experiment (21 mins)', 'Case Study Analysis (5 mins)']",6.0
+4,5,3,3,0,61,61,"['Debate (14 mins)', 'Brainstorming (10 mins)', 'Project Work (10 mins)']",8.1
+3,5,2,4,0,46,52,"['Role Play (10 mins)', 'Role Play (14 mins)']",7.7
+6,6,3,4,0,87,76,"['Quiz (24 mins)', 'Hands-on Experiment (19 mins)', 'Debate (7 mins)']",8.4
+5,4,1,4,0,42,66,['Debate (5 mins)'],7.9
+4,3,2,4,0,76,58,"['Individual Task (23 mins)', 'Quiz (7 mins)']",6.9
+2,4,3,4,0,32,46,"['Group Discussion (9 mins)', 'Video Presentation (14 mins)', 'Case Study Analysis (25 mins)']",7.4
+5,6,3,4,0,66,72,"['Debate (19 mins)', 'Problem Solving (9 mins)', 'Debate (10 mins)']",9.5
+5,2,2,1,1,68,84,"['Group Discussion (9 mins)', 'Role Play (14 mins)']",7.4
+6,1,4,4,1,88,92,"['Pair Work (27 mins)', 'Video Presentation (5 mins)', 'Problem Solving (8 mins)', 'Hands-on Experiment (9 mins)']",9.8
+1,2,1,1,1,80,25,['Individual Task (14 mins)'],4.5
+2,6,3,3,1,52,57,"['Role Play (11 mins)', 'Problem Solving (11 mins)', 'Video Presentation (10 mins)']",8.4
+2,3,4,4,1,43,66,"['Pair Work (20 mins)', 'Debate (27 mins)', 'Video Presentation (22 mins)', 'Problem Solving (6 mins)']",9.1
+6,3,2,1,0,73,61,"['Debate (11 mins)', 'Debate (11 mins)']",6.2
+3,6,5,3,0,78,63,"['Brainstorming (20 mins)', 'Hands-on Experiment (25 mins)', 'Pair Work (5 mins)', 'Individual Task (28 mins)', 'Group Discussion (7 mins)']",8.4
+6,5,4,4,0,42,83,"['Brainstorming (19 mins)', 'Group Discussion (6 mins)', 'Pair Work (22 mins)', 'Case Study Analysis (29 mins)']",9.4
+5,6,4,4,1,60,90,"['Pair Work (16 mins)', 'Debate (30 mins)', 'Problem Solving (23 mins)', 'Group Discussion (29 mins)']",10.0
+3,1,3,2,0,31,44,"['Group Discussion (27 mins)', 'Brainstorming (23 mins)', 'Group Discussion (15 mins)']",5.8
+3,4,5,3,0,40,60,"['Video Presentation (23 mins)', 'Quiz (30 mins)', 'Hands-on Experiment (24 mins)', 'Problem Solving (7 mins)', 'Problem Solving (23 mins)']",8.5
+5,3,4,3,0,42,69,"['Project Work (20 mins)', 'Hands-on Experiment (26 mins)', 'Problem Solving (19 mins)', 'Video Presentation (25 mins)']",8.2
+2,6,3,4,0,56,46,"['Quiz (12 mins)', 'Individual Task (9 mins)', 'Hands-on Experiment (5 mins)']",7.3
+3,3,5,2,1,71,61,"['Quiz (16 mins)', 'Case Study Analysis (26 mins)', 'Individual Task (17 mins)', 'Problem Solving (9 mins)', 'Hands-on Experiment (8 mins)']",9.0
+1,3,3,4,1,81,41,"['Hands-on Experiment (13 mins)', 'Brainstorming (18 mins)', 'Video Presentation (23 mins)']",7.9
+3,1,5,1,1,83,69,"['Debate (30 mins)', 'Case Study Analysis (8 mins)', 'Role Play (12 mins)', 'Brainstorming (17 mins)', 'Group Discussion (17 mins)']",7.5
+1,3,1,4,0,60,30,['Problem Solving (13 mins)'],4.6
+6,4,2,1,1,55,85,"['Video Presentation (10 mins)', 'Case Study Analysis (23 mins)']",6.7
+1,1,5,2,1,88,43,"['Problem Solving (10 mins)', 'Group Discussion (17 mins)', 'Project Work (18 mins)', 'Project Work (13 mins)', 'Pair Work (7 mins)']",7.1
+2,3,3,4,1,54,54,"['Case Study Analysis (11 mins)', 'Quiz (10 mins)', 'Quiz (30 mins)']",7.4
+4,2,3,4,1,73,74,"['Group Discussion (15 mins)', 'Hands-on Experiment (20 mins)', 'Debate (24 mins)']",9.6
+4,2,1,3,0,75,47,['Quiz (14 mins)'],5.5
+6,6,4,1,1,42,89,"['Brainstorming (8 mins)', 'Problem Solving (9 mins)', 'Individual Task (16 mins)', 'Individual Task (11 mins)']",8.3
+4,1,2,4,1,73,73,"['Debate (9 mins)', 'Group Discussion (7 mins)']",8.1
+2,2,1,3,1,50,39,['Video Presentation (10 mins)'],6.0
+6,3,5,2,1,52,99,"['Project Work (10 mins)', 'Quiz (25 mins)', 'Quiz (7 mins)', 'Group Discussion (21 mins)', 'Debate (19 mins)']",9.8
+2,6,3,2,0,63,44,"['Quiz (8 mins)', 'Brainstorming (26 mins)', 'Problem Solving (23 mins)']",6.1
+4,1,1,4,0,86,55,['Pair Work (11 mins)'],5.8
+1,1,2,4,0,59,30,"['Video Presentation (24 mins)', 'Project Work (16 mins)']",5.2
+6,2,4,2,0,35,72,"['Project Work (12 mins)', 'Hands-on Experiment (14 mins)', 'Project Work (17 mins)', 'Group Discussion (15 mins)']",7.2
+3,1,4,4,0,61,53,"['Debate (22 mins)', 'Individual Task (13 mins)', 'Case Study Analysis (18 mins)', 'Brainstorming (8 mins)']",7.3
+2,5,3,4,0,38,49,"['Video Presentation (27 mins)', 'Problem Solving (7 mins)', 'Case Study Analysis (20 mins)']",6.9
+2,5,1,1,0,52,33,['Quiz (8 mins)'],4.1
+3,2,5,1,1,75,70,"['Project Work (30 mins)', 'Individual Task (22 mins)', 'Group Discussion (21 mins)', 'Individual Task (10 mins)', 'Case Study Analysis (8 mins)']",8.3
+3,2,1,2,0,58,41,['Video Presentation (16 mins)'],4.3
+4,4,5,3,1,90,87,"['Group Discussion (17 mins)', 'Group Discussion (26 mins)', 'Case Study Analysis (9 mins)', 'Project Work (6 mins)', 'Case Study Analysis (27 mins)']",10.0
+2,6,4,4,1,71,57,"['Video Presentation (7 mins)', 'Group Discussion (22 mins)', 'Debate (17 mins)', 'Problem Solving (28 mins)']",9.4
+2,3,4,1,1,76,51,"['Individual Task (19 mins)', 'Video Presentation (23 mins)', 'Problem Solving (5 mins)', 'Brainstorming (15 mins)']",6.6
+5,6,2,1,1,50,81,"['Case Study Analysis (21 mins)', 'Quiz (23 mins)']",7.1
+4,6,4,2,1,75,69,"['Group Discussion (21 mins)', 'Pair Work (8 mins)', 'Debate (14 mins)', 'Debate (14 mins)']",9.8
+2,2,4,1,0,37,39,"['Project Work (19 mins)', 'Debate (30 mins)', 'Quiz (20 mins)', 'Problem Solving (24 mins)']",5.2
+1,5,5,4,1,54,53,"['Case Study Analysis (7 mins)', 'Pair Work (27 mins)', 'Group Discussion (23 mins)', 'Case Study Analysis (30 mins)', 'Problem Solving (14 mins)']",9.0
+6,5,2,1,1,47,83,"['Quiz (5 mins)', 'Role Play (15 mins)']",7.8
+6,2,1,3,1,41,72,['Project Work (23 mins)'],7.6
+4,1,4,2,1,88,75,"['Pair Work (14 mins)', 'Project Work (18 mins)', 'Brainstorming (7 mins)', 'Case Study Analysis (21 mins)']",8.0
+6,2,1,1,0,89,64,['Project Work (7 mins)'],5.2
+3,4,2,3,0,86,51,"['Project Work (15 mins)', 'Group Discussion (27 mins)']",7.1
+1,6,1,1,0,87,28,['Problem Solving (5 mins)'],3.9
+6,1,3,3,1,42,87,"['Project Work (11 mins)', 'Group Discussion (11 mins)', 'Case Study Analysis (17 mins)']",8.1
+2,3,5,2,0,86,51,"['Video Presentation (26 mins)', 'Role Play (19 mins)', 'Group Discussion (18 mins)', 'Case Study Analysis (26 mins)', 'Case Study Analysis (6 mins)']",6.7
+3,5,1,2,0,33,44,['Problem Solving (12 mins)'],5.5
+4,1,5,3,0,83,63,"['Hands-on Experiment (7 mins)', 'Project Work (24 mins)', 'Brainstorming (29 mins)', 'Individual Task (25 mins)', 'Brainstorming (23 mins)']",7.6
+4,1,3,4,1,34,78,"['Quiz (12 mins)', 'Project Work (30 mins)', 'Case Study Analysis (24 mins)']",8.4
+1,1,1,1,1,67,38,['Role Play (13 mins)'],4.4
+5,4,5,3,1,49,100,"['Hands-on Experiment (21 mins)', 'Role Play (6 mins)', 'Quiz (16 mins)', 'Hands-on Experiment (11 mins)', 'Case Study Analysis (11 mins)']",10.0
+1,4,2,1,1,70,38,"['Problem Solving (29 mins)', 'Debate (30 mins)']",6.2
+5,1,2,3,1,58,65,"['Problem Solving (10 mins)', 'Debate (22 mins)']",8.1
+3,4,2,3,0,81,47,"['Role Play (17 mins)', 'Problem Solving (16 mins)']",6.6
+2,3,2,1,0,70,34,"['Brainstorming (30 mins)', 'Case Study Analysis (24 mins)']",4.4
+3,6,3,4,0,75,53,"['Quiz (11 mins)', 'Video Presentation (18 mins)', 'Quiz (23 mins)']",7.9
+3,2,5,1,0,59,52,"['Debate (13 mins)', 'Quiz (5 mins)', 'Pair Work (19 mins)', 'Hands-on Experiment (13 mins)', 'Case Study Analysis (7 mins)']",6.4
+1,1,1,3,1,32,33,['Debate (13 mins)'],5.5
+4,5,1,4,1,71,76,['Debate (30 mins)'],9.4
+3,2,4,4,0,73,56,"['Pair Work (9 mins)', 'Debate (23 mins)', 'Case Study Analysis (30 mins)', 'Project Work (24 mins)']",7.8
+1,3,5,4,0,70,42,"['Pair Work (6 mins)', 'Problem Solving (24 mins)', 'Brainstorming (5 mins)', 'Pair Work (11 mins)', 'Individual Task (17 mins)']",6.7
+4,4,2,1,0,38,49,"['Pair Work (24 mins)', 'Project Work (14 mins)']",5.9
+1,2,4,1,0,82,30,"['Debate (23 mins)', 'Brainstorming (19 mins)', 'Brainstorming (23 mins)', 'Group Discussion (28 mins)']",4.9
+2,4,2,2,0,87,38,"['Hands-on Experiment (10 mins)', 'Video Presentation (25 mins)']",6.5
+3,1,1,3,0,56,40,['Individual Task (25 mins)'],4.5
+3,6,4,4,1,59,72,"['Pair Work (14 mins)', 'Individual Task (22 mins)', 'Problem Solving (17 mins)', 'Pair Work (7 mins)']",8.8
+6,6,1,4,0,74,70,['Debate (11 mins)'],8.2
+3,5,2,2,0,89,47,"['Group Discussion (17 mins)', 'Hands-on Experiment (19 mins)']",6.6
+4,3,5,4,1,36,71,"['Debate (26 mins)', 'Brainstorming (7 mins)', 'Debate (5 mins)', 'Project Work (23 mins)', 'Brainstorming (17 mins)']",10.0
+2,3,4,3,1,42,54,"['Problem Solving (15 mins)', 'Pair Work (13 mins)', 'Debate (25 mins)', 'Group Discussion (21 mins)']",8.2
+6,6,2,4,0,63,72,"['Individual Task (18 mins)', 'Problem Solving (19 mins)']",7.5
+3,4,1,3,0,55,42,['Group Discussion (29 mins)'],6.5
+3,4,4,3,0,59,55,"['Pair Work (11 mins)', 'Group Discussion (5 mins)', 'Role Play (28 mins)', 'Problem Solving (16 mins)']",8.3
+1,4,1,1,1,54,37,['Role Play (27 mins)'],5.3
+6,6,1,2,0,46,67,['Hands-on Experiment (18 mins)'],6.7
+6,1,1,3,1,82,85,['Problem Solving (18 mins)'],7.1
+4,5,2,2,1,42,60,"['Individual Task (17 mins)', 'Individual Task (13 mins)']",7.8
+1,1,2,1,0,54,22,"['Debate (24 mins)', 'Quiz (15 mins)']",3.7
+4,5,1,3,0,85,49,['Debate (19 mins)'],7.3
+6,4,2,4,1,55,93,"['Group Discussion (9 mins)', 'Brainstorming (30 mins)']",9.4
+6,1,2,3,0,87,70,"['Problem Solving (15 mins)', 'Hands-on Experiment (23 mins)']",6.3
+1,3,1,1,0,35,22,['Debate (9 mins)'],4.0
+5,5,2,4,0,57,67,"['Hands-on Experiment (20 mins)', 'Case Study Analysis (19 mins)']",8.0
+3,6,5,4,1,70,82,"['Brainstorming (28 mins)', 'Quiz (14 mins)', 'Case Study Analysis (10 mins)', 'Group Discussion (22 mins)', 'Quiz (15 mins)']",10.0
+5,1,3,4,1,71,83,"['Hands-on Experiment (28 mins)', 'Case Study Analysis (5 mins)', 'Debate (28 mins)']",8.9
+2,6,4,2,1,32,51,"['Brainstorming (25 mins)', 'Quiz (13 mins)', 'Case Study Analysis (25 mins)', 'Brainstorming (16 mins)']",7.9
+5,5,5,4,1,47,82,"['Problem Solving (5 mins)', 'Quiz (22 mins)', 'Role Play (30 mins)', 'Role Play (20 mins)', 'Individual Task (21 mins)']",10.0
+1,2,5,2,1,71,54,"['Group Discussion (7 mins)', 'Individual Task (21 mins)', 'Video Presentation (16 mins)', 'Role Play (10 mins)', 'Quiz (26 mins)']",7.9
+5,3,5,2,1,74,93,"['Video Presentation (9 mins)', 'Problem Solving (24 mins)', 'Quiz (7 mins)', 'Role Play (13 mins)', 'Video Presentation (17 mins)']",9.8
+5,2,4,2,0,50,66,"['Individual Task (15 mins)', 'Case Study Analysis (7 mins)', 'Debate (15 mins)', 'Video Presentation (9 mins)']",7.2
+1,2,5,3,0,67,41,"['Project Work (14 mins)', 'Role Play (13 mins)', 'Project Work (8 mins)', 'Group Discussion (10 mins)', 'Debate (29 mins)']",6.7
+2,3,1,2,1,72,52,['Case Study Analysis (16 mins)'],5.6
+3,6,1,3,0,56,43,['Brainstorming (30 mins)'],5.6
+6,1,4,3,1,45,85,"['Quiz (20 mins)', 'Quiz (10 mins)', 'Debate (8 mins)', 'Debate (26 mins)']",8.7
+3,6,5,1,0,89,55,"['Debate (28 mins)', 'Pair Work (17 mins)', 'Debate (5 mins)', 'Individual Task (18 mins)', 'Brainstorming (11 mins)']",7.0
+2,4,4,3,0,49,44,"['Brainstorming (10 mins)', 'Pair Work (16 mins)', 'Problem Solving (18 mins)', 'Group Discussion (16 mins)']",7.0
+1,2,2,4,0,72,31,"['Brainstorming (30 mins)', 'Case Study Analysis (27 mins)']",5.0
+2,3,5,1,1,79,57,"['Quiz (20 mins)', 'Video Presentation (14 mins)', 'Brainstorming (7 mins)', 'Quiz (12 mins)', 'Project Work (9 mins)']",7.4
+2,4,1,2,1,42,35,['Quiz (5 mins)'],5.8
+5,4,1,3,0,37,65,['Hands-on Experiment (14 mins)'],7.1
+3,1,1,1,1,73,51,['Debate (12 mins)'],5.9
+1,1,5,3,0,49,39,"['Pair Work (6 mins)', 'Pair Work (11 mins)', 'Quiz (22 mins)', 'Problem Solving (13 mins)', 'Role Play (16 mins)']",6.0
+1,2,5,3,1,74,63,"['Problem Solving (11 mins)', 'Problem Solving (17 mins)', 'Brainstorming (26 mins)', 'Role Play (21 mins)', 'Individual Task (10 mins)']",8.2
+5,6,5,3,1,49,82,"['Video Presentation (30 mins)', 'Group Discussion (25 mins)', 'Hands-on Experiment (11 mins)', 'Role Play (8 mins)', 'Group Discussion (25 mins)']",10.0
+3,3,1,1,0,82,41,['Individual Task (28 mins)'],4.6
+5,6,4,2,1,58,94,"['Video Presentation (10 mins)', 'Pair Work (17 mins)', 'Case Study Analysis (24 mins)', 'Hands-on Experiment (7 mins)']",9.5
+4,4,1,1,1,82,53,['Role Play (28 mins)'],7.6
+2,1,5,3,1,70,53,"['Individual Task (21 mins)', 'Quiz (9 mins)', 'Group Discussion (12 mins)', 'Group Discussion (12 mins)', 'Quiz (17 mins)']",8.5
+3,3,1,3,0,37,42,['Pair Work (26 mins)'],5.2
+1,2,2,3,0,39,29,"['Brainstorming (7 mins)', 'Individual Task (23 mins)']",4.2
+3,4,4,4,0,74,58,"['Role Play (20 mins)', 'Role Play (22 mins)', 'Hands-on Experiment (17 mins)', 'Individual Task (23 mins)']",8.7
+1,1,3,3,1,84,52,"['Role Play (18 mins)', 'Hands-on Experiment (11 mins)', 'Hands-on Experiment (6 mins)']",7.0
+5,2,1,2,1,53,73,['Problem Solving (21 mins)'],6.4
+5,2,1,4,0,83,60,['Quiz (9 mins)'],6.1
+6,4,4,3,0,71,83,"['Hands-on Experiment (14 mins)', 'Pair Work (22 mins)', 'Individual Task (7 mins)', 'Hands-on Experiment (24 mins)']",8.3
+1,5,4,1,0,33,35,"['Hands-on Experiment (15 mins)', 'Quiz (28 mins)', 'Debate (9 mins)', 'Problem Solving (26 mins)']",5.6
+2,1,5,4,1,60,60,"['Individual Task (25 mins)', 'Individual Task (27 mins)', 'Hands-on Experiment (11 mins)', 'Case Study Analysis (25 mins)', 'Pair Work (29 mins)']",8.4
+5,5,1,2,0,66,59,['Video Presentation (23 mins)'],6.7
+3,4,2,1,0,66,45,"['Role Play (24 mins)', 'Debate (16 mins)']",5.8
+6,5,1,2,1,84,88,['Individual Task (7 mins)'],7.5
+6,6,4,1,0,47,79,"['Group Discussion (11 mins)', 'Group Discussion (29 mins)', 'Case Study Analysis (18 mins)', 'Video Presentation (13 mins)']",7.5
+2,6,3,2,1,83,65,"['Brainstorming (22 mins)', 'Problem Solving (30 mins)', 'Pair Work (27 mins)']",7.6
+4,2,4,3,0,37,63,"['Group Discussion (11 mins)', 'Problem Solving (11 mins)', 'Quiz (27 mins)', 'Role Play (29 mins)']",7.0
+5,1,4,4,0,56,70,"['Debate (10 mins)', 'Role Play (24 mins)', 'Pair Work (22 mins)', 'Quiz (17 mins)']",8.2
+5,4,1,4,1,77,82,['Individual Task (11 mins)'],8.6
+1,4,1,1,1,31,48,['Debate (10 mins)'],5.2
+6,2,4,3,1,63,81,"['Role Play (10 mins)', 'Debate (11 mins)', 'Individual Task (7 mins)', 'Group Discussion (18 mins)']",9.1
+6,2,3,2,1,64,76,"['Project Work (8 mins)', 'Individual Task (9 mins)', 'Video Presentation (13 mins)']",8.8
+4,1,4,1,0,43,57,"['Case Study Analysis (23 mins)', 'Case Study Analysis (24 mins)', 'Group Discussion (8 mins)', 'Debate (16 mins)']",6.1
+5,1,5,1,1,63,86,"['Pair Work (13 mins)', 'Video Presentation (20 mins)', 'Hands-on Experiment (7 mins)', 'Debate (27 mins)', 'Role Play (25 mins)']",8.2
+4,1,5,3,1,40,82,"['Individual Task (24 mins)', 'Quiz (18 mins)', 'Hands-on Experiment (23 mins)', 'Debate (16 mins)', 'Case Study Analysis (7 mins)']",8.5
+3,4,2,3,1,45,62,"['Problem Solving (5 mins)', 'Problem Solving (15 mins)']",7.3
+1,5,3,1,0,66,32,"['Brainstorming (20 mins)', 'Group Discussion (13 mins)', 'Quiz (8 mins)']",5.3
+6,5,1,4,1,48,83,['Individual Task (22 mins)'],8.6
+1,1,2,1,0,50,22,"['Hands-on Experiment (28 mins)', 'Debate (22 mins)']",3.9
+3,3,5,4,1,47,78,"['Quiz (25 mins)', 'Brainstorming (26 mins)', 'Individual Task (21 mins)', 'Role Play (12 mins)', 'Project Work (20 mins)']",9.6
+6,1,1,4,1,33,73,['Role Play (15 mins)'],7.8
+1,3,4,2,0,73,36,"['Individual Task (28 mins)', 'Individual Task (12 mins)', 'Group Discussion (19 mins)', 'Pair Work (13 mins)']",6.3
+1,3,4,2,0,39,34,"['Brainstorming (13 mins)', 'Debate (8 mins)', 'Group Discussion (25 mins)', 'Quiz (28 mins)']",5.7
+1,6,1,2,1,37,48,['Individual Task (13 mins)'],6.0
+6,3,5,3,1,76,89,"['Debate (19 mins)', 'Pair Work (5 mins)', 'Case Study Analysis (20 mins)', 'Quiz (15 mins)', 'Group Discussion (10 mins)']",10.0
+1,5,3,2,1,63,49,"['Brainstorming (28 mins)', 'Debate (22 mins)', 'Video Presentation (26 mins)']",8.0
+3,6,5,1,0,39,61,"['Problem Solving (7 mins)', 'Hands-on Experiment (17 mins)', 'Case Study Analysis (8 mins)', 'Video Presentation (25 mins)', 'Case Study Analysis (22 mins)']",7.7
+5,4,3,3,1,42,86,"['Pair Work (19 mins)', 'Case Study Analysis (9 mins)', 'Role Play (14 mins)']",9.4
+5,1,1,4,1,49,71,['Role Play (9 mins)'],8.0
+4,4,1,3,0,88,54,['Video Presentation (9 mins)'],6.2
+5,2,4,4,1,36,92,"['Group Discussion (22 mins)', 'Group Discussion (29 mins)', 'Quiz (7 mins)', 'Pair Work (24 mins)']",9.6
+6,1,3,1,0,82,68,"['Role Play (9 mins)', 'Role Play (28 mins)', 'Brainstorming (9 mins)']",5.9
+4,5,2,1,1,34,64,"['Group Discussion (8 mins)', 'Video Presentation (17 mins)']",7.8
+2,2,2,2,1,62,55,"['Project Work (20 mins)', 'Debate (26 mins)']",7.1
+5,4,1,3,0,32,62,['Problem Solving (21 mins)'],6.3
+4,1,4,4,1,60,66,"['Project Work (23 mins)', 'Debate (23 mins)', 'Project Work (17 mins)', 'Individual Task (6 mins)']",9.4
+6,4,4,1,0,33,76,"['Hands-on Experiment (11 mins)', 'Video Presentation (20 mins)', 'Brainstorming (26 mins)', 'Video Presentation (12 mins)']",7.1
+2,1,2,1,0,53,33,"['Case Study Analysis (28 mins)', 'Problem Solving (25 mins)']",2.9
+3,3,5,2,1,81,68,"['Video Presentation (8 mins)', 'Individual Task (20 mins)', 'Hands-on Experiment (6 mins)', 'Project Work (22 mins)', 'Debate (5 mins)']",9.2
+5,5,3,4,1,69,78,"['Hands-on Experiment (22 mins)', 'Problem Solving (15 mins)', 'Case Study Analysis (6 mins)']",10.0
+4,2,3,1,1,36,73,"['Group Discussion (6 mins)', 'Group Discussion (29 mins)', 'Hands-on Experiment (22 mins)']",7.1
+1,4,1,3,1,52,32,['Project Work (5 mins)'],6.9
+2,3,1,3,1,52,55,['Case Study Analysis (7 mins)'],6.1
+5,1,1,3,0,87,58,['Hands-on Experiment (8 mins)'],5.5
+4,1,3,3,0,67,54,"['Quiz (17 mins)', 'Brainstorming (6 mins)', 'Hands-on Experiment (11 mins)']",6.5
+3,5,2,1,0,51,42,"['Brainstorming (18 mins)', 'Project Work (28 mins)']",5.8
+2,1,3,3,1,35,56,"['Group Discussion (24 mins)', 'Video Presentation (16 mins)', 'Video Presentation (26 mins)']",7.3
+4,6,5,2,1,56,88,"['Hands-on Experiment (25 mins)', 'Pair Work (9 mins)', 'Project Work (25 mins)', 'Group Discussion (12 mins)', 'Individual Task (25 mins)']",9.6
+6,3,5,1,1,68,92,"['Individual Task (25 mins)', 'Quiz (14 mins)', 'Pair Work (5 mins)', 'Debate (24 mins)', 'Debate (15 mins)']",9.0
+3,5,5,3,1,90,79,"['Project Work (21 mins)', 'Project Work (25 mins)', 'Role Play (28 mins)', 'Quiz (22 mins)', 'Problem Solving (8 mins)']",10.0
+4,3,1,2,0,58,52,['Brainstorming (30 mins)'],4.8
+6,2,5,3,0,80,77,"['Pair Work (8 mins)', 'Quiz (13 mins)', 'Role Play (27 mins)', 'Brainstorming (28 mins)', 'Individual Task (9 mins)']",8.1
+4,3,2,4,1,74,77,"['Problem Solving (16 mins)', 'Brainstorming (18 mins)']",8.6
+3,6,4,4,0,50,59,"['Role Play (23 mins)', 'Role Play (18 mins)', 'Video Presentation (15 mins)', 'Quiz (15 mins)']",7.9
+3,1,3,3,1,40,61,"['Video Presentation (24 mins)', 'Individual Task (12 mins)', 'Case Study Analysis (13 mins)']",7.5
+3,2,3,4,0,76,48,"['Brainstorming (18 mins)', 'Brainstorming (13 mins)', 'Individual Task (9 mins)']",6.3
+5,3,3,4,1,70,76,"['Pair Work (23 mins)', 'Quiz (12 mins)', 'Case Study Analysis (11 mins)']",9.2
+1,4,5,2,1,75,61,"['Case Study Analysis (23 mins)', 'Hands-on Experiment (25 mins)', 'Debate (20 mins)', 'Role Play (26 mins)', 'Pair Work (14 mins)']",8.5
+4,4,3,2,0,72,57,"['Project Work (18 mins)', 'Case Study Analysis (12 mins)', 'Group Discussion (14 mins)']",7.6
+4,4,4,4,0,55,66,"['Pair Work (22 mins)', 'Hands-on Experiment (29 mins)', 'Case Study Analysis (8 mins)', 'Project Work (24 mins)']",9.1
+1,6,1,2,1,53,35,['Debate (18 mins)'],6.7
+2,3,3,1,1,44,59,"['Pair Work (28 mins)', 'Video Presentation (7 mins)', 'Individual Task (7 mins)']",5.7
+5,6,1,3,0,47,61,['Problem Solving (22 mins)'],6.8
+5,1,4,2,0,58,65,"['Pair Work (11 mins)', 'Brainstorming (23 mins)', 'Hands-on Experiment (7 mins)', 'Pair Work (17 mins)']",6.7
+4,3,3,2,0,32,55,"['Role Play (20 mins)', 'Debate (25 mins)', 'Hands-on Experiment (15 mins)']",6.4
+1,2,5,1,1,40,41,"['Brainstorming (10 mins)', 'Case Study Analysis (30 mins)', 'Role Play (20 mins)', 'Pair Work (28 mins)', 'Role Play (18 mins)']",6.6
+5,3,5,2,0,39,74,"['Debate (28 mins)', 'Problem Solving (9 mins)', 'Pair Work (21 mins)', 'Problem Solving (20 mins)', 'Group Discussion (15 mins)']",8.0
+5,4,3,1,0,33,64,"['Problem Solving (14 mins)', 'Debate (24 mins)', 'Quiz (13 mins)']",6.8
+6,2,3,2,1,46,80,"['Case Study Analysis (20 mins)', 'Hands-on Experiment (10 mins)', 'Group Discussion (30 mins)']",8.3
+4,4,4,3,1,49,84,"['Individual Task (24 mins)', 'Hands-on Experiment (10 mins)', 'Case Study Analysis (13 mins)', 'Problem Solving (9 mins)']",9.7
+6,3,4,2,1,69,97,"['Debate (13 mins)', 'Role Play (5 mins)', 'Project Work (13 mins)', 'Group Discussion (25 mins)']",9.6
+4,6,5,1,0,32,66,"['Individual Task (22 mins)', 'Video Presentation (11 mins)', 'Case Study Analysis (24 mins)', 'Problem Solving (5 mins)', 'Debate (26 mins)']",7.7
+6,4,4,1,1,34,93,"['Video Presentation (13 mins)', 'Role Play (16 mins)', 'Individual Task (15 mins)', 'Brainstorming (23 mins)']",8.6
+4,1,2,3,1,83,67,"['Debate (18 mins)', 'Hands-on Experiment (11 mins)']",7.7
+6,5,4,2,0,32,83,"['Hands-on Experiment (13 mins)', 'Hands-on Experiment (19 mins)', 'Video Presentation (6 mins)', 'Individual Task (21 mins)']",8.3
+6,1,3,1,0,40,70,"['Group Discussion (19 mins)', 'Project Work (19 mins)', 'Project Work (23 mins)']",5.9
+5,3,4,4,1,49,77,"['Pair Work (14 mins)', 'Project Work (27 mins)', 'Role Play (11 mins)', 'Project Work (29 mins)']",9.8
+6,2,2,2,0,49,63,"['Debate (8 mins)', 'Brainstorming (22 mins)']",6.6
+2,3,2,4,0,79,41,"['Debate (20 mins)', 'Case Study Analysis (28 mins)']",6.8
+4,1,2,2,1,61,56,"['Quiz (9 mins)', 'Video Presentation (14 mins)']",6.9
+1,4,1,3,1,73,33,['Pair Work (23 mins)'],6.1
+5,4,5,3,0,79,78,"['Problem Solving (23 mins)', 'Video Presentation (11 mins)', 'Role Play (24 mins)', 'Problem Solving (19 mins)', 'Quiz (6 mins)']",8.7
+6,3,3,4,0,51,80,"['Debate (28 mins)', 'Group Discussion (22 mins)', 'Problem Solving (17 mins)']",8.4
+2,6,5,4,1,32,66,"['Problem Solving (7 mins)', 'Debate (25 mins)', 'Problem Solving (14 mins)', 'Quiz (17 mins)', 'Group Discussion (10 mins)']",10.0
+3,5,4,2,0,78,55,"['Video Presentation (5 mins)', 'Quiz (11 mins)', 'Group Discussion (30 mins)', 'Quiz (26 mins)']",7.8
+2,1,5,3,0,76,43,"['Quiz (20 mins)', 'Role Play (5 mins)', 'Debate (15 mins)', 'Debate (16 mins)', 'Brainstorming (9 mins)']",7.0
+1,6,5,1,0,70,42,"['Video Presentation (29 mins)', 'Debate (19 mins)', 'Case Study Analysis (19 mins)', 'Group Discussion (9 mins)', 'Project Work (23 mins)']",6.2
+2,4,5,2,1,54,61,"['Pair Work (29 mins)', 'Problem Solving (17 mins)', 'Role Play (18 mins)', 'Debate (29 mins)', 'Hands-on Experiment (18 mins)']",8.3
+4,4,3,4,1,40,67,"['Project Work (25 mins)', 'Quiz (18 mins)', 'Quiz (11 mins)']",9.5
+6,4,1,3,0,31,64,['Hands-on Experiment (23 mins)'],6.8
+5,3,2,2,1,59,64,"['Role Play (8 mins)', 'Problem Solving (29 mins)']",7.7
+6,5,4,4,1,80,95,"['Video Presentation (8 mins)', 'Debate (25 mins)', 'Problem Solving (7 mins)', 'Brainstorming (27 mins)']",10.0
+2,2,5,3,1,31,70,"['Problem Solving (10 mins)', 'Project Work (25 mins)', 'Video Presentation (20 mins)', 'Problem Solving (19 mins)', 'Case Study Analysis (14 mins)']",8.5
+6,5,5,4,1,60,111,"['Case Study Analysis (7 mins)', 'Debate (12 mins)', 'Video Presentation (11 mins)', 'Hands-on Experiment (9 mins)', 'Video Presentation (24 mins)']",10.0
+3,5,1,3,1,65,60,['Hands-on Experiment (27 mins)'],8.4
+2,2,5,4,1,59,53,"['Individual Task (11 mins)', 'Brainstorming (8 mins)', 'Brainstorming (7 mins)', 'Brainstorming (11 mins)', 'Individual Task (22 mins)']",7.7
+5,6,5,4,0,30,81,"['Video Presentation (26 mins)', 'Role Play (21 mins)', 'Video Presentation (25 mins)', 'Brainstorming (8 mins)', 'Pair Work (20 mins)']",9.5
+2,2,1,2,0,43,33,['Individual Task (26 mins)'],3.9
+2,5,2,3,0,63,39,"['Video Presentation (16 mins)', 'Pair Work (14 mins)']",5.8
+3,6,2,4,0,79,54,"['Debate (22 mins)', 'Role Play (28 mins)']",8.0
+6,4,5,4,1,90,97,"['Brainstorming (14 mins)', 'Individual Task (20 mins)', 'Pair Work (28 mins)', 'Individual Task (15 mins)', 'Problem Solving (18 mins)']",10.0
+2,1,3,3,0,87,39,"['Brainstorming (16 mins)', 'Debate (11 mins)', 'Case Study Analysis (27 mins)']",6.0
+4,1,5,1,0,88,61,"['Brainstorming (14 mins)', 'Project Work (15 mins)', 'Case Study Analysis (7 mins)', 'Problem Solving (7 mins)', 'Project Work (7 mins)']",6.6
+1,6,4,3,0,59,41,"['Brainstorming (21 mins)', 'Problem Solving (28 mins)', 'Quiz (5 mins)', 'Quiz (23 mins)']",5.9
+3,2,5,3,0,64,56,"['Pair Work (11 mins)', 'Video Presentation (10 mins)', 'Individual Task (5 mins)', 'Role Play (24 mins)', 'Group Discussion (29 mins)']",7.9
+2,4,3,2,1,89,53,"['Problem Solving (28 mins)', 'Hands-on Experiment (17 mins)', 'Group Discussion (19 mins)']",7.9
+1,2,2,1,0,90,25,"['Quiz (11 mins)', 'Hands-on Experiment (7 mins)']",4.0
+4,1,3,3,0,90,59,"['Video Presentation (28 mins)', 'Case Study Analysis (15 mins)', 'Group Discussion (9 mins)']",7.0
+1,1,5,2,0,85,41,"['Pair Work (18 mins)', 'Pair Work (10 mins)', 'Role Play (9 mins)', 'Problem Solving (30 mins)', 'Case Study Analysis (10 mins)']",5.7
+3,1,1,3,0,31,39,['Project Work (28 mins)'],5.1
+1,1,4,4,0,56,38,"['Case Study Analysis (5 mins)', 'Video Presentation (20 mins)', 'Brainstorming (13 mins)', 'Pair Work (15 mins)']",4.8
+2,6,1,1,0,75,35,['Problem Solving (19 mins)'],4.4
+4,3,2,1,0,77,47,"['Debate (5 mins)', 'Project Work (20 mins)']",6.1
+5,4,1,3,0,71,64,['Individual Task (30 mins)'],6.4
+1,5,3,2,0,85,36,"['Quiz (21 mins)', 'Hands-on Experiment (9 mins)', 'Case Study Analysis (12 mins)']",6.3
+3,5,2,2,1,53,61,"['Project Work (18 mins)', 'Hands-on Experiment (13 mins)']",7.9
+1,1,3,3,1,43,42,"['Pair Work (9 mins)', 'Brainstorming (10 mins)', 'Hands-on Experiment (17 mins)']",7.2
+6,2,2,4,0,39,74,"['Individual Task (22 mins)', 'Problem Solving (24 mins)']",6.8
+6,4,4,2,0,86,81,"['Individual Task (29 mins)', 'Video Presentation (28 mins)', 'Problem Solving (13 mins)', 'Video Presentation (25 mins)']",7.0
+2,5,4,2,0,67,50,"['Case Study Analysis (17 mins)', 'Group Discussion (24 mins)', 'Individual Task (23 mins)', 'Case Study Analysis (8 mins)']",7.4
+4,4,1,3,0,71,51,['Group Discussion (25 mins)'],7.4
+3,4,1,3,0,59,45,['Pair Work (20 mins)'],5.4
+6,4,3,4,1,70,88,"['Project Work (14 mins)', 'Role Play (27 mins)', 'Case Study Analysis (22 mins)']",10.0
+4,2,4,1,0,84,58,"['Case Study Analysis (13 mins)', 'Group Discussion (20 mins)', 'Hands-on Experiment (27 mins)', 'Hands-on Experiment (12 mins)']",6.7
+1,5,4,4,1,56,56,"['Quiz (28 mins)', 'Video Presentation (27 mins)', 'Debate (30 mins)', 'Video Presentation (18 mins)']",9.4
+6,4,5,3,1,36,99,"['Group Discussion (22 mins)', 'Brainstorming (22 mins)', 'Case Study Analysis (6 mins)', 'Debate (20 mins)', 'Problem Solving (9 mins)']",9.6
+6,4,3,3,1,51,89,"['Individual Task (29 mins)', 'Individual Task (24 mins)', 'Individual Task (21 mins)']",8.7
+5,6,4,4,0,54,76,"['Hands-on Experiment (16 mins)', 'Case Study Analysis (25 mins)', 'Individual Task (15 mins)', 'Brainstorming (29 mins)']",9.0
+1,5,1,1,0,50,27,['Pair Work (11 mins)'],3.3
+5,2,4,2,1,62,81,"['Case Study Analysis (10 mins)', 'Project Work (21 mins)', 'Pair Work (8 mins)', 'Brainstorming (11 mins)']",8.9
+2,3,2,2,0,82,37,"['Case Study Analysis (27 mins)', 'Project Work (8 mins)']",5.6
+5,6,2,3,1,50,76,"['Project Work (17 mins)', 'Video Presentation (20 mins)']",9.0
+5,1,1,3,1,54,79,['Case Study Analysis (27 mins)'],6.5
+3,1,2,3,0,41,44,"['Hands-on Experiment (24 mins)', 'Case Study Analysis (13 mins)']",5.4
+4,3,2,4,1,46,65,"['Individual Task (10 mins)', 'Role Play (15 mins)']",9.0
+5,1,4,4,1,36,81,"['Brainstorming (28 mins)', 'Pair Work (19 mins)', 'Project Work (29 mins)', 'Group Discussion (26 mins)']",9.3
+2,6,1,4,1,54,53,['Brainstorming (7 mins)'],7.4
+6,2,3,3,1,32,90,"['Case Study Analysis (6 mins)', 'Project Work (22 mins)', 'Individual Task (5 mins)']",8.7

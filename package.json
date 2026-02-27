@@ -1,0 +1,28 @@
+{
+  "name": "edvance",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-Powered Lesson Planning Platform",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "build:server": "cd server && npm install && npx prisma generate",
+    "build:client": "cd client && npm install && npm run build",
+    "start:server": "cd server && npm start",
+    "start:client": "cd client && npm run preview",
+    "build:all": "npm run build:client && npm run build:server"
+  },
+  "keywords": [
+    "education",
+    "lesson-planning",
+    "ai",
+    "collaboration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "three": "^0.181.0"
+  }
+}
