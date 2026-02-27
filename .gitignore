@@ -43,3 +43,6 @@ Thumbs.db
 
 
 .vercel
+.env
+node_modules/
+__pycache__/
